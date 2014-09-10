@@ -4,7 +4,10 @@ body {
 
 nav a {
     color: darkolivegreen;
-}
+    border-style: ridge;
+    border-color: black;  
+    font-size: 17px;
+   }
 
 #current-link {
     text-decoration: none;
@@ -12,5 +15,23 @@ nav a {
 
 .uppercase {
     text-transform: uppercase;
-    font-size: 35px;
+    font-size: 20px;
 }
+/*
+img {
+    width: 300px;
+    height: auto;
+}
+*/
+
+h1 {
+  border-style: double;
+  border-width: 2px;
+  border-color: darkgrey;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  padding-left: 50px;
+  margin: 10px;
+  margin-right: 1025px;
+}
+
