@@ -9,6 +9,7 @@ nav a {
     font-size: 17px;
    }
 
+   /* I want my current link to have no underline to make it look different */
 #current-link {
     text-decoration: none;
 }
